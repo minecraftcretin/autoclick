@@ -1,5 +1,5 @@
-#autoclick v0.1
-#Built with assistance from ChatGPT
+# autoclick v0.1
+# Built with assistance from ChatGPT
 from pynput import keyboard, mouse
 import threading
 import time
